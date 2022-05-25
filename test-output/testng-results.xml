@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-21T20:01:07 IST" name="Default suite" finished-at="2022-05-21T20:01:34 IST" duration-ms="27415">
+    <groups>
+    </groups>
+    <test started-at="2022-05-21T20:01:07 IST" name="Default test" finished-at="2022-05-21T20:01:34 IST" duration-ms="27415">
+      <class name="TestScript.CancelAddNewCustomerTestScript">
+        <test-method is-config="true" signature="openingBroswer()[pri:0, instance:TestScript.CancelAddNewCustomerTestScript@8462f31]" started-at="2022-05-21T20:01:07 IST" name="openingBroswer" finished-at="2022-05-21T20:01:21 IST" duration-ms="14803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingBroswer -->
+        <test-method is-config="true" signature="loginIntoActitime()[pri:0, instance:TestScript.CancelAddNewCustomerTestScript@8462f31]" started-at="2022-05-21T20:01:21 IST" name="loginIntoActitime" finished-at="2022-05-21T20:01:23 IST" duration-ms="1648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoActitime -->
+        <test-method signature="canceladdnewcustomer()[pri:0, instance:TestScript.CancelAddNewCustomerTestScript@8462f31]" started-at="2022-05-21T20:01:23 IST" name="canceladdnewcustomer" finished-at="2022-05-21T20:01:31 IST" duration-ms="8018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canceladdnewcustomer -->
+        <test-method is-config="true" signature="LogoutFromActitime()[pri:0, instance:TestScript.CancelAddNewCustomerTestScript@8462f31]" started-at="2022-05-21T20:01:31 IST" name="LogoutFromActitime" finished-at="2022-05-21T20:01:32 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFromActitime -->
+        <test-method is-config="true" signature="closingBroswer()[pri:0, instance:TestScript.CancelAddNewCustomerTestScript@8462f31]" started-at="2022-05-21T20:01:32 IST" name="closingBroswer" finished-at="2022-05-21T20:01:34 IST" duration-ms="2461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBroswer -->
+      </class> <!-- TestScript.CancelAddNewCustomerTestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

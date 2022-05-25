@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name ="a" value="http://127.0.0.1:81/login.do"></parameter>
+<parameter name ="b" value="admin"></parameter>
+<parameter name ="c" value="manager"></parameter>
+  <test thread-count="5" name="Test">
+  <classes>
+  <class name ="Sample.DataDriven"/>
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,193 @@
+2022-05-17 11:45:02 INFO  Login:23 - Defined the drivers location
+2022-05-17 11:45:02 INFO  Login:25 - broswer is opened 
+2022-05-17 11:45:03 INFO  Login:27 - url is entered 
+2022-05-17 11:45:03 INFO  Login:30 - broswer is maximized
+2022-05-17 11:45:03 INFO  Login:32 - username and password is enterd
+2022-05-18 17:37:41 INFO  Login:23 - Defined the drivers location
+2022-05-18 17:37:41 INFO  Login:25 - broswer is opened 
+2022-05-18 17:37:43 INFO  Login:27 - url is entered 
+2022-05-18 17:37:43 INFO  Login:30 - broswer is maximized
+2022-05-18 17:37:43 INFO  Login:32 - username and password is enterd
+2022-05-18 17:42:33 INFO  Login:23 - Defined the drivers location
+2022-05-18 17:42:33 INFO  Login:25 - broswer is opened 
+2022-05-18 17:42:33 INFO  Login:27 - url is entered 
+2022-05-18 17:42:33 INFO  Login:30 - broswer is maximized
+2022-05-18 17:42:33 INFO  Login:32 - username and password is enterd
+2022-05-18 17:45:49 INFO  Login:23 - Defined the drivers location
+2022-05-18 17:45:49 INFO  Login:25 - broswer is opened 
+2022-05-18 17:45:49 INFO  Login:27 - url is entered 
+2022-05-18 17:45:49 INFO  Login:30 - broswer is maximized
+2022-05-18 17:45:49 INFO  Login:32 - username and password is enterd
+2022-05-18 17:47:26 INFO  Login:23 - Defined the drivers location
+2022-05-18 17:47:26 INFO  Login:25 - broswer is opened 
+2022-05-18 17:47:26 INFO  Login:27 - url is entered 
+2022-05-18 17:47:26 INFO  Login:30 - broswer is maximized
+2022-05-18 17:47:26 INFO  Login:32 - username and password is enterd
+2022-05-18 17:50:51 INFO  Login:23 - Defined the drivers location
+2022-05-18 17:50:51 INFO  Login:25 - broswer is opened 
+2022-05-18 17:50:51 INFO  Login:27 - url is entered 
+2022-05-18 17:50:51 INFO  Login:30 - broswer is maximized
+2022-05-18 17:50:51 INFO  Login:32 - username and password is enterd
+2022-05-18 17:57:54 INFO  Login:23 - Defined the drivers location
+2022-05-18 17:57:54 INFO  Login:25 - broswer is opened 
+2022-05-18 17:57:55 INFO  Login:27 - url is entered 
+2022-05-18 17:57:55 INFO  Login:30 - broswer is maximized
+2022-05-18 17:57:55 INFO  Login:32 - username and password is enterd
+2022-05-18 18:01:52 INFO  Login:23 - Defined the drivers location
+2022-05-18 18:01:52 INFO  Login:25 - broswer is opened 
+2022-05-18 18:01:53 INFO  Login:27 - url is entered 
+2022-05-18 18:01:53 INFO  Login:30 - broswer is maximized
+2022-05-18 18:01:53 INFO  Login:32 - username and password is enterd
+2022-05-18 18:03:06 INFO  Login:23 - Defined the drivers location
+2022-05-18 18:03:06 INFO  Login:25 - broswer is opened 
+2022-05-18 18:03:07 INFO  Login:27 - url is entered 
+2022-05-18 18:03:07 INFO  Login:30 - broswer is maximized
+2022-05-18 18:03:07 INFO  Login:32 - username and password is enterd
+2022-05-18 18:24:53 INFO  Login:23 - Defined the drivers location
+2022-05-18 18:24:53 INFO  Login:25 - broswer is opened 
+2022-05-18 18:24:54 INFO  Login:27 - url is entered 
+2022-05-18 18:24:54 INFO  Login:30 - broswer is maximized
+2022-05-18 18:24:54 INFO  Login:32 - username and password is enterd
+2022-05-21 14:47:30 INFO  BaseClass:27 - Broswer is selected 
+2022-05-21 14:47:32 INFO  BaseClass:34 - url is fetched for the propety file
+2022-05-21 14:47:33 INFO  BaseClass:37 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 14:47:33 INFO  BaseClass:40 - username is fetched from the property
+2022-05-21 14:47:33 INFO  BaseClass:42 - username is entered into the filed.
+2022-05-21 14:47:33 INFO  BaseClass:44 - password is fetched from the property filemanager
+2022-05-21 14:47:33 INFO  BaseClass:46 - password is enter into the password filed
+2022-05-21 14:47:35 INFO  BaseClass:52 - logout button is clicked 
+2022-05-21 14:47:38 INFO  BaseClass:58 - Broswzer is closed 
+2022-05-21 14:57:37 INFO  BaseClass:27 - Broswer is selected 
+2022-05-21 14:57:40 INFO  BaseClass:34 - url is fetched for the propety file
+2022-05-21 14:57:40 INFO  BaseClass:37 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 14:57:40 INFO  BaseClass:40 - username is fetched from the property
+2022-05-21 14:57:40 INFO  BaseClass:42 - username is entered into the filed.
+2022-05-21 14:57:40 INFO  BaseClass:44 - password is fetched from the property file
+2022-05-21 14:57:40 INFO  BaseClass:46 - password is enter into the password filed
+2022-05-21 14:57:42 INFO  BaseClass:48 - login button is clicked 
+2022-05-21 14:57:44 INFO  BaseClass:53 - logout button is clicked 
+2022-05-21 14:57:47 INFO  BaseClass:59 - Broswzer is closed 
+2022-05-21 15:01:26 INFO  BaseClass:27 - Broswer is selected 
+2022-05-21 15:01:28 INFO  BaseClass:34 - url is fetched for the propety file
+2022-05-21 15:01:29 INFO  BaseClass:37 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 15:01:29 INFO  BaseClass:40 - username is fetched from the property
+2022-05-21 15:01:29 INFO  BaseClass:42 - username is entered into the filed.
+2022-05-21 15:01:29 INFO  BaseClass:44 - password is fetched from the property file
+2022-05-21 15:01:29 INFO  BaseClass:46 - password is enter into the password filed
+2022-05-21 15:01:30 INFO  BaseClass:48 - login button is clicked 
+2022-05-21 15:01:34 INFO  BaseClass:53 - logout button is clicked 
+2022-05-21 15:01:38 INFO  BaseClass:59 - Broswzer is closed 
+2022-05-21 15:05:39 INFO  BaseClass:27 - Broswer is selected 
+2022-05-21 15:05:42 INFO  BaseClass:34 - url is fetched for the propety file
+2022-05-21 15:05:42 INFO  BaseClass:37 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 15:05:42 INFO  BaseClass:40 - username is fetched from the property
+2022-05-21 15:05:42 INFO  BaseClass:42 - username is entered into the filed.
+2022-05-21 15:05:42 INFO  BaseClass:44 - password is fetched from the property file
+2022-05-21 15:05:42 INFO  BaseClass:46 - password is enter into the password filed
+2022-05-21 15:05:44 INFO  BaseClass:48 - login button is clicked 
+2022-05-21 15:05:48 INFO  BaseClass:53 - logout button is clicked 
+2022-05-21 15:05:51 INFO  BaseClass:59 - Broswzer is closed 
+2022-05-21 15:15:25 INFO  BaseClass:27 - Broswer is selected 
+2022-05-21 15:15:27 INFO  BaseClass:34 - url is fetched for the propety file
+2022-05-21 15:15:28 INFO  BaseClass:37 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 15:15:28 INFO  BaseClass:40 - username is fetched from the property
+2022-05-21 15:15:28 INFO  BaseClass:42 - username is entered into the filed.
+2022-05-21 15:15:28 INFO  BaseClass:44 - password is fetched from the property file
+2022-05-21 15:15:28 INFO  BaseClass:46 - password is enter into the password filed
+2022-05-21 15:15:29 INFO  BaseClass:48 - login button is clicked 
+2022-05-21 15:15:33 INFO  BaseClass:53 - logout button is clicked 
+2022-05-21 15:15:36 INFO  BaseClass:59 - Broswzer is closed 
+2022-05-21 15:29:23 INFO  BaseClass:27 - Broswer is selected 
+2022-05-21 15:29:25 INFO  BaseClass:34 - url is fetched for the propety file
+2022-05-21 15:29:26 INFO  BaseClass:37 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 15:29:26 INFO  BaseClass:40 - username is fetched from the property
+2022-05-21 15:29:26 INFO  BaseClass:42 - username is entered into the filed.
+2022-05-21 15:29:26 INFO  BaseClass:44 - password is fetched from the property file
+2022-05-21 15:29:26 INFO  BaseClass:46 - password is enter into the password filed
+2022-05-21 15:29:27 INFO  BaseClass:48 - login button is clicked 
+2022-05-21 15:29:29 INFO  BaseClass:53 - logout button is clicked 
+2022-05-21 15:29:33 INFO  BaseClass:59 - Broswzer is closed 
+2022-05-21 15:31:30 INFO  BaseClass:27 - Broswer is selected 
+2022-05-21 15:31:32 INFO  BaseClass:34 - url is fetched for the propety file
+2022-05-21 15:31:33 INFO  BaseClass:37 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 15:31:33 INFO  BaseClass:40 - username is fetched from the property
+2022-05-21 15:31:33 INFO  BaseClass:42 - username is entered into the filed.
+2022-05-21 15:31:33 INFO  BaseClass:44 - password is fetched from the property file
+2022-05-21 15:31:33 INFO  BaseClass:46 - password is enter into the password filed
+2022-05-21 15:31:34 INFO  BaseClass:48 - login button is clicked 
+2022-05-21 15:31:36 INFO  BaseClass:53 - logout button is clicked 
+2022-05-21 15:31:39 INFO  BaseClass:59 - Broswzer is closed 
+2022-05-21 15:34:11 INFO  BaseClass:27 - Broswer is selected 
+2022-05-21 15:34:13 INFO  BaseClass:34 - url is fetched for the propety file
+2022-05-21 15:34:14 INFO  BaseClass:37 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 15:34:14 INFO  BaseClass:40 - username is fetched from the property
+2022-05-21 15:34:14 INFO  BaseClass:42 - username is entered into the filed.
+2022-05-21 15:34:14 INFO  BaseClass:44 - password is fetched from the property file
+2022-05-21 15:34:14 INFO  BaseClass:46 - password is enter into the password filed
+2022-05-21 15:34:15 INFO  BaseClass:48 - login button is clicked 
+2022-05-21 15:34:56 INFO  BaseClass:53 - logout button is clicked 
+2022-05-21 15:34:58 INFO  BaseClass:59 - Broswzer is closed 
+2022-05-21 15:36:35 INFO  BaseClass:27 - Broswer is selected 
+2022-05-21 15:36:37 INFO  BaseClass:34 - url is fetched for the propety file
+2022-05-21 15:36:38 INFO  BaseClass:37 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 15:36:38 INFO  BaseClass:40 - username is fetched from the property
+2022-05-21 15:36:38 INFO  BaseClass:42 - username is entered into the filed.
+2022-05-21 15:36:38 INFO  BaseClass:44 - password is fetched from the property file
+2022-05-21 15:36:38 INFO  BaseClass:46 - password is enter into the password filed
+2022-05-21 15:36:39 INFO  BaseClass:48 - login button is clicked 
+2022-05-21 15:37:20 INFO  BaseClass:53 - logout button is clicked 
+2022-05-21 15:37:22 INFO  BaseClass:59 - Broswzer is closed 
+2022-05-21 15:53:32 INFO  BaseClass:28 - Broswer is selected 
+2022-05-21 15:53:34 INFO  BaseClass:35 - url is fetched for the propety file
+2022-05-21 15:55:13 INFO  BaseClass:28 - Broswer is selected 
+2022-05-21 15:55:15 INFO  BaseClass:35 - url is fetched for the propety file
+2022-05-21 16:01:54 INFO  BaseClass:28 - Broswer is selected 
+2022-05-21 16:01:56 INFO  BaseClass:35 - url is fetched for the propety file
+2022-05-21 16:06:48 INFO  BaseClass:27 - browser data is selected FirefoxDriver
+2022-05-21 16:06:48 INFO  BaseClass:29 - Broswer is selected 
+2022-05-21 16:06:50 INFO  BaseClass:36 - url is fetched for the propety file
+2022-05-21 16:48:50 INFO  BaseClass:27 - browser data is selected FirefoxDriver
+2022-05-21 16:48:52 INFO  BaseClass:30 - Broswer is selected 
+2022-05-21 16:48:54 INFO  BaseClass:37 - url is fetched for the propety file
+2022-05-21 16:53:22 INFO  BaseClass:27 - browser data is selected FirefoxDriver
+2022-05-21 16:53:34 INFO  BaseClass:31 - Broswer is selected 
+2022-05-21 16:53:36 INFO  BaseClass:38 - url is fetched for the propety file
+2022-05-21 16:53:37 INFO  BaseClass:41 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 16:53:37 INFO  BaseClass:44 - username is fetched from the property
+2022-05-21 16:53:37 INFO  BaseClass:46 - username is entered into the filed.
+2022-05-21 16:53:37 INFO  BaseClass:48 - password is fetched from the property file
+2022-05-21 16:53:37 INFO  BaseClass:50 - password is enter into the password filed
+2022-05-21 16:53:38 INFO  BaseClass:52 - login button is clicked 
+2022-05-21 16:53:39 INFO  BaseClass:57 - logout button is clicked 
+2022-05-21 16:53:43 INFO  BaseClass:63 - Broswzer is closed 
+2022-05-21 19:31:26 INFO  BaseClass:27 - browser data is selected FirefoxDriver
+2022-05-21 19:31:38 INFO  BaseClass:31 - Broswer is selected 
+2022-05-21 19:31:40 INFO  BaseClass:38 - url is fetched for the propety file
+2022-05-21 19:31:41 INFO  BaseClass:41 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 19:31:41 INFO  BaseClass:44 - username is fetched from the property
+2022-05-21 19:31:41 INFO  BaseClass:46 - username is entered into the filed.
+2022-05-21 19:31:41 INFO  BaseClass:48 - password is fetched from the property file
+2022-05-21 19:31:41 INFO  BaseClass:50 - password is enter into the password filed
+2022-05-21 19:31:42 INFO  BaseClass:52 - login button is clicked 
+2022-05-21 19:31:51 INFO  BaseClass:57 - logout button is clicked 
+2022-05-21 19:31:54 INFO  BaseClass:63 - Broswzer is closed 
+2022-05-21 19:58:11 INFO  BaseClass:27 - browser data is selected FirefoxDriver
+2022-05-21 19:58:24 INFO  BaseClass:31 - Broswer is selected 
+2022-05-21 19:58:26 INFO  BaseClass:38 - url is fetched for the propety file
+2022-05-21 19:58:26 INFO  BaseClass:41 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 19:58:26 INFO  BaseClass:44 - username is fetched from the property
+2022-05-21 19:58:26 INFO  BaseClass:46 - username is entered into the filed.
+2022-05-21 19:58:26 INFO  BaseClass:48 - password is fetched from the property file
+2022-05-21 19:58:26 INFO  BaseClass:50 - password is enter into the password filed
+2022-05-21 19:58:27 INFO  BaseClass:52 - login button is clicked 
+2022-05-21 20:01:07 INFO  BaseClass:27 - browser data is selected FirefoxDriver
+2022-05-21 20:01:19 INFO  BaseClass:31 - Broswer is selected 
+2022-05-21 20:01:21 INFO  BaseClass:38 - url is fetched for the propety file
+2022-05-21 20:01:22 INFO  BaseClass:41 - url is entered into the broswzer http://127.0.0.1:81/login.do
+2022-05-21 20:01:22 INFO  BaseClass:44 - username is fetched from the property
+2022-05-21 20:01:22 INFO  BaseClass:46 - username is entered into the filed.
+2022-05-21 20:01:22 INFO  BaseClass:48 - password is fetched from the property file
+2022-05-21 20:01:22 INFO  BaseClass:50 - password is enter into the password filed
+2022-05-21 20:01:23 INFO  BaseClass:52 - login button is clicked 
+2022-05-21 20:01:32 INFO  BaseClass:57 - logout button is clicked 
+2022-05-21 20:01:34 INFO  BaseClass:63 - Broswzer is closed 
