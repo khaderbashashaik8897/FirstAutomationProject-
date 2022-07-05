@@ -4,6 +4,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -32,6 +33,13 @@ public class Login {
 		logger.info("username and password is enterd");
 		driver.findElement(By.name("username")).sendKeys("admin"+Keys.TAB+"manager"+Keys.ENTER);
 		Thread.sleep(3000);
+		Assert.assertEquals("actiTIME - Open Tasks",driver.getTitle());
+		logger.info("Home screen is validate with respect to title");
+		driver.findElement(By.className("logoutImg")).click();
+		logger.info("user click on logout");
+		driver.close();
+		logger.info("user close the browzer");
+		
 
 	}
 
